@@ -117,7 +117,8 @@ git submodule update --init --recursive
 **Suryansh Garg**  
 1st-year Undergraduate | IIT BHU  
 Roll No. - 24064029
-Exploring cybersecurity and system internals with curiosity and consistency.
+
+##Exploring cybersecurity and system internals with curiosity and consistency.
 
 GitHub: [@suryansh00001](https://github.com/suryansh00001)
 
