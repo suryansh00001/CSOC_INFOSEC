@@ -108,7 +108,7 @@ git submodule update --init --recursive
 
 - This repo is purely for **learning purposes**.
 - All challenges were solved independently or with proper citations.
-- Writeups are documented in Markdown/PDF inside respective week folders.
+- Writeups are documented in Markdown inside respective week folders.
 
 ---
 
@@ -118,7 +118,7 @@ git submodule update --init --recursive
 1st-year Undergraduate | IIT BHU  
 Roll No. - 24064029
 
-##Exploring cybersecurity and system internals with curiosity and consistency.
+#### Exploring cybersecurity and system internals with curiosity and consistency.
 
 GitHub: [@suryansh00001](https://github.com/suryansh00001)
 
