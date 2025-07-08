@@ -1,0 +1,12 @@
+[submodule "Week_0_Infosec_CSOC"]
+	path = Week_0_Infosec_CSOC
+	url = https://github.com/suryansh00001/Week_0_Infosec_CSOC.git
+[submodule "Week_1_Infosec_CSOC"]
+	path = Week_1_Infosec_CSOC
+	url = https://github.com/suryansh00001/Week_1_Infosec_CSOC.git
+[submodule "Week_2_Infosec_CSOC"]
+	path = Week_2_Infosec_CSOC
+	url = https://github.com/suryansh00001/Week_2_Infosec_CSOC.git
+[submodule "Week_3_Infosec_CSOC"]
+	path = Week_3_Infosec_CSOC
+	url = https://github.com/suryansh00001/Week_3_Infosec_CSOC.git
